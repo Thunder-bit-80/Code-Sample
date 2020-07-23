@@ -3,6 +3,6 @@ module.exports = {
 		host     : 'localhost',
 		user     : 'User',
 		password : 'Password',
-		database : 'ppchallenge'
+		database : 'challenge'
 	}
 };
